@@ -25,4 +25,4 @@ to the /bin directory.
 Automatic Builds
 ---------------------------------
 Automatic builds can be found at:
-http://mysticrealms.net:8080/job/CommandSigns/
+# http://mysticrealms.net:8080/job/CommandSigns/
